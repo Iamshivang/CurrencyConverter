@@ -23,7 +23,7 @@ Follow these steps to get started with the Currency Converter app:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Iamshivang/CurrencyConverter.git
+    https://github.com/Iamshivang/CurrencyConverter.git
     ```
 
 2. Open the project in Android Studio.
