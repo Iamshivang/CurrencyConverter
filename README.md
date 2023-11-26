@@ -13,6 +13,7 @@ The Currency Converter Android app simplifies international transactions. Instan
 ## Screenshots
 
 <p align="left"> <img src="gs://projemanange.appspot.com/gitHub images/Screenshot_2023-11-26-04-32-26-61_a566ee43e3a99caf042fbdbeffabbb16.jpg/?username=iamshivang&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+<p align="left"> <img src="https://projemanange.appspot.com/gitHub%20images/Screenshot_2023-11-26-04-32-26-61_a566ee43e3a99caf042fbdbeffabbb16.jpg" alt="Currency Converter App Screenshot" width="300"/> </p>
 
 *Note: The image above showcases the app's user interface on a smartphone screen.*
 
